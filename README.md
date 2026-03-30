@@ -68,3 +68,11 @@ Feel free to reach out or check my work:
 ## ⭐ Feedback
 
 Any feedback or suggestions are highly appreciated!
+
+## 🎥 Live Prototype
+
+Explore the full interactive experience of Aroma Brew:
+
+👉 Click here to try the prototype https://www.figma.com/proto/TyIshjl8MVI4T3uFYmidlE/Aroma-Brew-cafe?node-id=26-273&viewport=368%2C12%2C0.1&t=tYelYW88wNXosXN4-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=26%3A273&page-id=4%3A57
+
+> Designed to simulate a real user journey
